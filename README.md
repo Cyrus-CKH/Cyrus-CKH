@@ -1,3 +1,6 @@
+![Systems and technology programming company logo (Banner (Landscape)) (40 × 25 cm) (40 × 15 cm)](https://user-images.githubusercontent.com/66346716/197395119-46a03a6d-d8ce-4006-aedb-96fc53bfe55a.svg)
+
+
 ### Hi there 👋
 
 #!/usr/bin/python
@@ -42,17 +45,4 @@ me.say_hi()
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyrus-CKH)
 
 
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               12 hrs 15 mins      ██████████████████░░░░░░░   74.14% 
-Markdown                 3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
-HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77% 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
-
-🔥 Editors: 
-WebStorm                 16 hrs 31 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      16 hrs 31 mins      █████████████████████████   100.0%
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-CKH&layout=compact)](https://github.com/Cyrus-CKH/github-readme-stats)
