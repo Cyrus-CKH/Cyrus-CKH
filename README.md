@@ -1,10 +1,10 @@
-![Systems and technology programming company logo (Banner (Landscape)) (40 × 25 cm) (40 × 15 cm)](https://user-images.githubusercontent.com/66346716/197395119-46a03a6d-d8ce-4006-aedb-96fc53bfe55a.svg)
+![Systems and technology programming company logo (Banner (Landscape)) (40 × 25 cm) (40 × 15 cm) (30 × 15 cm) (30 × 10 cm) (30 × 10 cm) (35 × 10 cm)](https://user-images.githubusercontent.com/66346716/197395783-0fc214e2-99b8-477a-98af-e4068bcd5efb.gif)
 
 
-### Hi there 👋
+<h1> Hello There 👋 </h1>
 
-#!/usr/bin/python
-#-*- coding: utf-8 -*-
+!/usr/bin/python
+-*- coding: utf-8 -*-
 
 
 class SoftwareEngineer:
