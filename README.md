@@ -1,48 +1,86 @@
 ![Systems and technology programming company logo (Banner (Landscape)) (40 × 25 cm) (40 × 15 cm) (30 × 15 cm) (30 × 10 cm) (30 × 10 cm) (35 × 10 cm)](https://user-images.githubusercontent.com/66346716/197395783-0fc214e2-99b8-477a-98af-e4068bcd5efb.gif)
 
+<div align="center">
 
-<h1> Hello There 👋 </h1>
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-!/usr/bin/python
--*- coding: utf-8 -*-
+    
+![YouTube](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+![colored](https://user-images.githubusercontent.com/66346716/197402661-b8ab7187-07c1-4054-a32e-f3cb74515954.png)
 
 
-me = SoftwareEngineer()
-me.say_hi()
+</div>
 
-
-
+<h1> Hello There 👋 </h1> 
 <h3 align="center">A passionate Data Engineer from Hong Kong</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/cyrusckh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cyrusckh" height="30" width="40" /></a>
-<a href="https://fb.com/ka ho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ka ho" height="30" width="40" /></a>
-<a href="https://instagram.com/c.kkkaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c.kkkaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cyrus-ckh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cyrus-ckh" height="30" width="40" /></a>
-</p>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# Hong Kong 🇭🇰 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrus-ckh&show_icons=true&locale=en&layout=compact" alt="cyrus-ckh" /></p>
+class DataEngineer:
+
+    def __init__(self):
+        self.name = "Cyrus Chan"
+        self.role = "Data Engineer"
+        self.language_spoken = ["zh_HK", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, I just starting to be hardworking coder🧑🏻‍💻.")
+
+
+me = DataEngineer()
+me.say_hi()
+```
+
+![colored](https://user-images.githubusercontent.com/66346716/197402744-33905bb5-9413-4f78-b32d-210466b3afb3.png)
+
+<h3 align="left">TECHNICAL SKILLS</h3>
+<h4>System Environment</h4>
+
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<h4>Languages</h4>
+
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+<h4>Databases</h4>
+
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![]()
+
+<h4>Tool</h4>
+
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+<h4>Blog</h4>
+
+![](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
+
+<h4>Learning Platform</h4>
+
+![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
+
+![colored](https://user-images.githubusercontent.com/66346716/197402651-3f52cfbc-3345-46cc-907d-c7ed406dc83d.png)
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-CKH&layout=compact)](https://github.com/Cyrus-CKH/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrus-ckh&" alt="cyrus-ckh" /></p>
 
-
-
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyrus-CKH)
 
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-CKH&layout=compact)](https://github.com/Cyrus-CKH/github-readme-stats)
