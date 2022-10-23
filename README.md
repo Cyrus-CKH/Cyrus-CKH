@@ -17,3 +17,8 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+
+
+
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyrus-CKH)
