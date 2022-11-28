@@ -7,7 +7,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
     
-![YouTube](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+![askmeanything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 ![colored](https://user-images.githubusercontent.com/66346716/197402661-b8ab7187-07c1-4054-a32e-f3cb74515954.png)
 
