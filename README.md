@@ -67,7 +67,7 @@ me.say_hi()
 
 <h4>Blog</h4>
 
-![](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
+![](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://kah0sj.wixsite.com/my-site)
 
 <h4>Learning Platform</h4>
 
