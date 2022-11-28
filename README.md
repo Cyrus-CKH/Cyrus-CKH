@@ -32,6 +32,7 @@ class DataEngineer:
 
     def say_hi(self):
         print("Thanks for dropping by, I just starting to be hardworking coder🧑🏻‍💻.")
+        print("My aim to be Full-stack Developer or Software Engineer in the future;D)
 
 
 me = DataEngineer()
